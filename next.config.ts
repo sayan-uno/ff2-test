@@ -9,11 +9,6 @@ const withPWA = require('next-pwa')({
 
 
 const nextConfig: NextConfig = {
-  experimental: {
-    serverActions: {
-      allowedOrigins: ['localhost:9002', '*.app.github.dev'],
-    },
-  },
   typescript: {
     ignoreBuildErrors: true,
   },
