@@ -118,7 +118,7 @@ Coins can be transferred to friends.
 
 Request refunds via the “Orders” page (subject to review).
 
-⚙️ Terms & Privacy Summary
+⚙️ Terms & Privacy Summarys
 Refund Policy: Reviewed manually; fraudulent requests are denied.
 Privacy: Collects name, email, and game ID to process orders, manage accounts, and provide support.
 Advertising: Discounts are funded through ads displayed to users.
